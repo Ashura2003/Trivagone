@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123640771640",
+    "project_id": "batta-aebb8",
+    "storage_bucket": "batta-aebb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123640771640:android:a2a4dec507f6bd165022cd",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123640771640-uv0srf4uppkpo462j7ko09a6br0puque.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoFrElBHYLP7hbho65DEeGplDLKHzk09Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123640771640-uv0srf4uppkpo462j7ko09a6br0puque.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
